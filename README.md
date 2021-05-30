@@ -1,1 +1,1 @@
-# vanilla
+![](assets/main/logo.png)
